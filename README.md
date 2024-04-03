@@ -1,5 +1,11 @@
 # Web Scraping Workshop
 
+<a href="https://colab.research.google.com/drive/1HmdXZYcRkHUxfcBv3m6LbI-aodAjjsDW?usp=sharing&#offline=true&sandboxMode=true" style="text-decoration: none;" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+<br>
+<br>
+
 ![](https://raw.githubusercontent.com/nickmccarty/web-scraping-workshop/main/images/beige-book-scraping-screenshot.jpg)
 
 ## Motivation
