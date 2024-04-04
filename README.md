@@ -22,7 +22,7 @@ We have already obtained the summary of economic conditions for the years 2017 u
 
 ![](https://raw.githubusercontent.com/nickmccarty/web-scraping-workshop/main/images/beige-book-scraping-screenshot-2.jpg) 
 
-We will specify a range of years (2011 thru 2016, specifically -- more on why in a moment) and iterate through each one in order to parse all of the Beige Book publication dates to faciliate next steps.
+We will specify a range of years and iterate through each one in order to parse all of the Beige Book publication dates to faciliate next steps.
 
 ![](https://raw.githubusercontent.com/nickmccarty/web-scraping-workshop/main/images/beige-book-scraping-screenshot-3.jpg) 
 
