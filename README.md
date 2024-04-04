@@ -10,7 +10,7 @@
 
 ## Motivation
 
-We want to obtain the summary of economic conditions for each Federal Reserve bank district. We know that this information is containined in the archived Federal Reserve Beige Book publications.
+We want to obtain the summary of economic conditions for each Federal Reserve bank district. We know that this information is contained in the archived Federal Reserve Beige Book publications.
 
 ## Approach
 
